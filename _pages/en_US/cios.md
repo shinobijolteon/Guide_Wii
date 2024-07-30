@@ -93,7 +93,7 @@ The WAD files should be on your SD card like this:
 
     ![](/images/cios/d2x_log.png)
     
-    If the slot is highlighted red, try install the cIOS again. <br>
+    If the slot is highlighted red, try to install the cIOS again. <br>
     If you are getting an error before/during the downloading stages, press B to exit and continue from [Section I](#section-i---downloading).
     {: .notice--info}
     
